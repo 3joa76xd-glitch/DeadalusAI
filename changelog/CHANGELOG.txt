@@ -9,6 +9,10 @@ v0.0.2
 
 v0.0.3
 
++ Botón Estado del Sistema
++ Integración entre GUI y módulo system
++ Visualización de CPU y RAM
+
 v0.0.4
 
 v0.0.5
