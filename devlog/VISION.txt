@@ -1,0 +1,4 @@
+¿Qué es el proyecto?
+Este proyecto es una IA con la capacidad de ver cada aspecto de tu pc internamente para facilitar el escaneo y cambio de drivers, posibles virus e interactuar con proyectos como aplicaciones, páginas web, diseños 3d, instrumentales, juegos, etc. además cuenta con noticias en base a tus intereses.
+¿Para quién está hecho?
+Está hecho para gente que quiera tener segura su pc; o quiera mejorar el rendimiento de su pc; o quiera ayuda para proyectos; o quiera 

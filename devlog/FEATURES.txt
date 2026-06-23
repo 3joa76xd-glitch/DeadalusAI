@@ -1,0 +1,9 @@
+IDEAS
+-Visión de pantalla
+-Monitoreo hardware
+-Actualización de drivers
+-Análisis de descargas
+-Resumen diario
+-Gestión de proyectos
+-Ayuda con proyectos
+-Noticias
