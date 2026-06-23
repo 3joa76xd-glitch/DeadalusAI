@@ -1,8 +1,11 @@
 v0.0.1
--Proyectardium creado
--Ventana principal creada
++ Proyectardium creado
++ Ventana principal creada
 
 v0.0.2
++ Integración de psutil
++ Función de lectura de CPU
++ Función de lectura de RAM
 
 v0.0.3
 
